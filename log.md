@@ -17,3 +17,9 @@
 **Today's Progress**: Finished my challenge [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/return-largest-numbers-in-arrays)
 
 **Thoughts:** we can even write a better code for this than what I have written, will write that one day.
+
+### Day 3: May 03, 2017
+
+**Today's Progress**: Finished my challenge [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/confirm-the-ending)
+
+**Thoughts:** we can even write a better code for this than what I have written, will write that one day.
