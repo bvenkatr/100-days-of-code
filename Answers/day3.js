@@ -16,3 +16,8 @@ function confirmEnding(str, target) {
 }
 
 confirmEnding("Bastian", "n");
+
+
+/**
+ * You can see remaining challenges in born2code reporsitory in ny github repo
+ */
