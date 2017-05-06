@@ -27,6 +27,6 @@ s
 ### Day 4: May 04, 2017
 
 **Today's Progress**: Finished my challenge => convert given sting into lower case and spaces with _(undercore)
-
+[solution is here](https://github.com/bvenkatr/born2code/blob/master/Challenges/day4.js)
 **Thoughts:** we can even write a better code for this than what I have written, will write that one day.
 
